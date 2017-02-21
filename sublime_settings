@@ -1,0 +1,19 @@
+{
+	"animation_enabled": false,
+	"auto_find_in_selection": true,
+	"auto_match_enabled": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"detect_indentation": false,
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		79
+	],
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false
+}
