@@ -1,1 +1,13 @@
-
+[
+    {
+        "keys": [
+            "f8"
+        ],
+        "command": "anaconda_goto"
+    },
+    {
+        "keys": ["alt+shift+space"],
+        "command": "insert_snippet",
+        "args": {"contents": " "}
+    }
+]
